@@ -1,5 +1,5 @@
 #labels browsers,setup,Featured
-#Compatible browsers and installation instructions
+_italic_ Compatible browsers and installation instructions
 
 ==Webkit Nightly Builds (Mac OS X)==
   *Download the nightly build from http://nightly.webkit.org/
