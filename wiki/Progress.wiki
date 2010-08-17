@@ -1,0 +1,20 @@
+#labels Featured,Phase-Implementation
+#this page will have updates as to what is going on with heretic2 gwt port
+
+= Introduction =
+
+Please keep looking here for changes that are occurring i will be updating this as i add stuff into the source code and will start using SVN properly to keep sources uptodate so any of the developers of the Quake2 GWT Port are welcome to look use or rebuild
+
+
+= Updates =
+Please check here for progress these will be newest updates to the top
+
+== 17th August 2010==
+
+=== Game Engine ===
+
+The game engine has been tested to not need any updates to loading the maps or the content files from the game.
+
+=== Items ===
+
+the system needs all items building for heretic2 with the files they are to load and the stats they change. how every the quake2 loading engine dose appears to not need changing for this it looks for method for items that are not there but once the rebuild of the method has been done should work fine.
